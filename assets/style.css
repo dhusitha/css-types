@@ -6,3 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(251, 20, 189);
 } 
+body{
+    background-color: bisque;
+    background-image: -o-linear-gradient();
+}
